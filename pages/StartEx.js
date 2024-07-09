@@ -98,7 +98,7 @@ const UserForm = () => {
         .subHeading {
           font-size: 30px;
           display: block;
-          margin-top: -5px; /* Adjust this value to reduce the vertical space */
+          margin-top: -5px; 
         }
         .background-video {
           position: fixed;
