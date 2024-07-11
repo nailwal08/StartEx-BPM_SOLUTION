@@ -10,14 +10,14 @@ This is a Business Process Management (BPM) project built using Next.js. The app
 - **Finance and Asset Management**: Visualize data using graphs for better insights.
 - **Real-Time Notifications**: React Toastr for instant feedback and updates.
 
-Technologies Used
+## Technologies Used
 - Next.js
 - React
 - Chart.js
 - React Toast
 
-License
+## License
 This project is licensed under the MIT License.
 
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
